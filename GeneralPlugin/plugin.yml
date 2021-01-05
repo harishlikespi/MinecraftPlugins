@@ -1,0 +1,4 @@
+name: Plugin1
+main: mc.harish.one.pluginbody
+version: 1.0
+description: Gives people a message and reward for killing
