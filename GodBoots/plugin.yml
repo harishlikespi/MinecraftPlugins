@@ -1,0 +1,7 @@
+name: SpigotBlankPlugin
+main: test.test
+version: 1.0
+description: Gives people a message and reward for killing
+commands:
+ GodBoots:
+ 
